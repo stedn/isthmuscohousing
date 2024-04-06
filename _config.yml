@@ -9,38 +9,40 @@ description: "A website for our cohousing site"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Claire Stedden
   pic: 1
-  position: Lead Designer
+  position: President
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/clairestedden/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Will Ochowitz
+  pic: 2
+  position: Buy and Build Lead
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/william-ochowicz-515907b0/
+
+- name: Melinda Morang
+  pic: 4
+  position: Professor
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/melinda-morang-915a1b35/
+
+- name: Ian Shay
+  pic: 5
+  position: Chef
+  social:
+
+- name: Willie Stedden
+  pic: 3
+  position: Assistant to the President
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/willstedden/
+
+- name: Victoria Steinberg
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
