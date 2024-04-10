@@ -11,38 +11,39 @@ description: "A website for our cohousing site"
 people:
 - name: Claire Stedden
   pic: 1
-  position: President
+  position: co-founder
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/clairestedden/
 
 - name: Will Ochowitz
   pic: 2
-  position: Buy and Build Lead
+  position: co-founder
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/william-ochowicz-515907b0/
 
 - name: Melinda Morang
   pic: 4
-  position: Professor
+  position: co-founder
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/melinda-morang-915a1b35/
 
 - name: Ian Shay
   pic: 5
-  position: Chef
+  position: co-founder
   social:
 
 - name: Willie Stedden
   pic: 3
-  position: Assistant to the President
+  position: co-founder
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/willstedden/
 
 - name: Victoria Steinberg
+  position: co-founder
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
