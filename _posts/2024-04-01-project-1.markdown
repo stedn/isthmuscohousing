@@ -1,11 +1,11 @@
 ---
-title: Building Design Ideas
-subtitle: Our Dream Homes
+title: Building Our Dream Homes
+subtitle: Buy and Build
 layout: default
 modal-id: 1
 date: 2024-04-01
 img: building.jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The Buy and Build Committee of Isthmus Cohousing is tirelessly dedicated to realizing our vision of a sustainable and vibrant community. At the forefront of our efforts is the meticulous task of finding the perfect location that embodies our values and aspirations. Concurrently, we are diligently working to secure the necessary financing to turn our dreams into reality. Negotiating the complexities of property acquisition, we are navigating city zoning regulations, securing permits, and navigating bureaucratic processes to ensure a smooth path forward. With an eye toward the future, we are actively engaged in designing a building that reflects our community's needs and desires, incorporating sustainable practices and fostering a sense of interconnectedness. As we embark on the journey of construction, we are driven by our collective vision and unwavering determination to create a home that embodies the essence of cohousing living.
 
 ---

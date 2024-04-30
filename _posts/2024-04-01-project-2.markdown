@@ -1,11 +1,11 @@
 ---
 title: Forging A Life Together
-subtitle: Forming Our Community Agreements
+subtitle: Organizational Structuring
 layout: default
 modal-id: 2
 date: 2024-04-01
 img: docs.jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The Organizational Structuring Committee of Isthmus Cohousing is diligently focused on fortifying our foundation and ensuring the smooth operation of our community. With a steadfast commitment to transparency and inclusivity, we are actively working to adopt a formal decision-making process that empowers every member to have a voice in shaping our collective future. In parallel, we are in the process of creating essential founding documents and officially incorporating as a legal entity, laying the groundwork for a solid organizational framework. Additionally, we are crafting comprehensive values statements, policies, and membership procedures that reflect our shared ethos and guide our actions. As we move forward, we recognize the importance of establishing a system for equitable division of labor among residents and implementing means of accountability to uphold our shared responsibilities and promote a thriving, harmonious community for all.
 
 ---

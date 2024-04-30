@@ -1,12 +1,12 @@
 ---
 title: Growing Our Community
-subtitle: Marketing and Outreach
+subtitle: Outreach and Recruitment
 layout: default
 modal-id: 3
 date: 2024-04-01
 img: community.jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The Outreach and Recruiting Committee of Isthmus Cohousing is dedicated to spreading awareness and fostering connections within our vibrant community. With a calendar brimming with engaging events, including a potluck at Arbco on May 15th, a backyard BBQ at Willie's house on June 29th, and a co-op game night at Linden on July 27th, we're creating opportunities for neighbors to come together, share experiences, and explore the joys of cohousing living. In our quest to expand our reach, we're deploying various outreach strategies, such as distributing newsletters to neighborhoods, TLNA, SASY, Marquette, churches, and the Mifflin Street area, as well as utilizing signs, flyers, and tabling at rallies and farmer's markets. Additionally, we're exploring avenues for media coverage, including a potential interview with WORT, and considering leveraging cohousing listservs to connect with like-minded individuals eager to join our community. Join us in shaping the future of cohousing living in Isthmus – together, we're building more than just homes; we're creating a vibrant and supportive community where everyone belongs.
 
 ---
 
