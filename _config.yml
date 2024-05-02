@@ -16,7 +16,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/clairestedden/
 
-- name: Will Ochowitz
+- name: Will Ochowicz
   pic: 2
   position: co-founder
   social:
@@ -57,6 +57,8 @@ social:
   #   url: http://bitbucket.org/jekyll
   - title: instagram
     url: http://instagram.com/isthmuscohousing
+  - title: envelope
+    url: mailto:isthmuscohousing@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
