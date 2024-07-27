@@ -6,6 +6,5 @@ modal-id: 1
 date: 2024-04-01
 img: building.jpg
 alt: image-alt
-description: The Buy and Build Committee of Isthmus Cohousing is tirelessly dedicated to realizing our vision of a sustainable and vibrant community. At the forefront of our efforts is the meticulous task of finding the perfect location that embodies our values and aspirations. Concurrently, we are diligently working to handle the activities related to identifying and securing a site and financing, and developing financial projections and architectural plans to turn our dreams into reality. This will lead to hiring a developer and an architect and working with a lender to oversee the purchase of the site and design and construction of the building. With an eye toward the future, we are actively engaged in designing a building that reflects our community's needs and desires, incorporating sustainable practices and fostering a sense of interconnectedness. As we embark on the journey of construction, we are driven by our collective vision and unwavering determination to create a home that embodies the essence of cohousing living.
-
+description: The Buy and Build Committee is responsible for the development of a location and structure that embodies our values and aspirations. We will accomplish this through research, forming relationships with professionals, and creating tools to analyze information that we gather. Long term goals include securing financing and developing architectural plans to turn our dreams into reality.
 ---
