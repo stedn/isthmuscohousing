@@ -6,5 +6,5 @@ modal-id: 2
 date: 2024-04-01
 img: docs.jpg
 alt: image-alt
-description: The Organizational Structuring Committee of Isthmus Cohousing are creating policies and procedures to promote a thriving, harmonious community. We create essential founding documents including values statements, decision making processes, and other policies. We oversee the process of incorporating as a legal entity. And we are establishing a system for equitable division of labor among residents as well as a means of accountability to uphold our shared responsibilities
+description: The Organizational Structuring Committee of Isthmus Cohousing are creating policies and procedures to promote a thriving, harmonious community. We create essential founding documents including values statements, decision making processes, and other policies. We oversee the process of incorporating as a legal entity. And we are establishing a system for equitable division of labor among residents as well as a means of accountability to uphold our shared responsibilities.
 ---
